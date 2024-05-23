@@ -1,96 +1,119 @@
-  <p align="center">  
-  <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
-  </a>
-</p>
-   
+<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://www.youtube.com/@YourPenPal" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
- 
-  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/104565822/177012232-97866d97-0798-4ca2-9e56-5d0a2413642b.png" alt="21-akeno-wallpaper-Images-of-Akeno-Himejima-Wallpaper-industrious-info" />
+
 </p>
 
- 
----
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+<p align="center"> 
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
- 
- ***<p align="center"> Support us by subscribing our channel </p>***
- 
-   <p align="center">  
-  <a href="https://www.youtube.com/watch?v=k-DOQiLNuig">
-    <img alt="secktor docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
-    <h1 align="center">Tap on above Image</h1>
-  </a>
-</p>
- 
- 
-- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
-## Deployment Methods
----
-1. ***Get [SESSION-ID](https://secktorub-b34f1c3c60d3.herokuapp.com/id) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
+  A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
 
-
-***Free Mongodb URI,LOL***
-```
-mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
-```
-3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
-## Heroku Deployment Method
-4.  ***Deploy on [Heroku](https://secktorub-b34f1c3c60d3.herokuapp.com//heroku)***
-## Koyeb Deployment Method
-5. ***[Deploy on Koyeb](https://secktorub-b34f1c3c60d3.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
-
-6. ***Also Deploy on [Replit]( https://repl.it/github/SamPandey001/Secktor-Md)***
-
-If ***RUN*** Doesn't work, paste these commands in repl shell
-
-```
-yarn
-npm i pm2 -g && pm2 start lib/client.js
-```
-Copy the JSON down and paste in repl then fill the vars
-
-```
-{
-  "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "91xxxxxxxxxx",
-  "OWNER_NAME": "EREN JEAGER",
-  "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Sam;Pandey",
-  "PREFIX": "."
    
-}
+###  “This Userbot is no longer supported, please consider using [Secktor-MD](https://github.com/CitelVoid/Secktor-Md) instead.”
+
+
+
+### How to enable Zero-Two On your number
+-   First Open `Github Link Of Zero Two`
+-   Click on Fork Button upwards right corner
+-  Tap Deploy Image down blew and Fill config vars
+-   Tap on Deploy button and wait 1 min
+-   Tap manage and go on `Resources` and turn on web dynos,tap on open app and Scan Qr code from WhatsApp.
+-   After Scanning you can use [Kaffeine](https://kaffeine.herokuapp.com/) or just switch to worker from web.
+-   Bot is Working Now,Enjoy ♥️
+
+- `Thank me later.`
+# Main Features of Bot
+- PM Permit (Upcoming)
+- First Whatsapp Bot with `Auto Nsfw detection with percentage`
+- First whatsapp bot with `NLP AI`
+- text to Sticker(like Quotely Telegram Bot)
+- Scribd link unlocker
+- Torrent Search
+- Translator for any language
+- Textmaker
+- Nsfw
+- Group Features
+- Chat Features
+- Switches for Turning NSFW on and off
+- Random Anime
+- Anime, Character Search
+- Reaction Commands like Poke,punch,bonk
+- Mongodb Support
+- YouTube,Fb,Twitter,tiktok downloader
+- iplookup,imdb,sticker,emojimix, ebinary,dbinary
+- And list goes on + adding commands daily + we add requested features too
+- Check usage of Commands by prefix+command help eg- -scribd help
+
+  
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
+  
+[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/henrygokugt99/Secktor-Md)
+
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
+
+## Whatsapp Group
+
+<a href="https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<a href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+## This bot is mainly created on prefix - if you change this buttons will not work
+
+
+### The Hard Method (Not Recommend)
+```js
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Sampandey001/Zero-Two-Md
+cd Zero-Two-Md
+npm start
 ```
 
-7.  ***[Deploy on Railway](https://secktorub-b34f1c3c60d3.herokuapp.com/railway)***
+### ⚠️ Warning! 
+```
+ This bot is not a official bot by Whatsapp INC So if you want to use it then feel free to do so.
+ Your WhatsApp Number can be banned by Whatsapp as it is not official
+ Zero-Two-MD bot is still in the development stage, so there can be few bugs.Feel free to report that to us.
+```
 
-8. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
-  
-9. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
+## Thanks for Everything 
+- [XEON](https://github.com/dgxeon)
 
-10. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
----
-11. More info about [Secktor](https://secktorub-b34f1c3c60d3.herokuapp.com/).
-12. Deploy tutorial [Youtube Video](https://secktorub-b34f1c3c60d3.herokuapp.com/youtube).
 
-13. SUPPORT GROUP: <a href="https://chat.whatsapp.com/DG86OkvmerHKHJjkE5X2Wv"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ repo if you like Secktor.
-### Thanks To
 
-- [Yusuf Usta](https://github.com/yusufusta) for Ideas
+## Developers
+
+[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Prince-Mendiratta](https://github.com/Prince-Mendiratta.png?size=80)](https://github.com/Prince-Mendiratta)
+----|----|----|----|----
+[XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Prince-Mendiratta](https://wa.me/917838204238)
+Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
+
+
 
 ## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
-The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+
+
+
+## Contributing
+Feel free to contribute.
+
+### Disclaimer
+This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+
+## Help
+Give a ⭐ to this repo if it helped you.
